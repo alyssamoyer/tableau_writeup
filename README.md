@@ -1,5 +1,6 @@
 # Trends in Bike Trips October 2019 - February 2020
 Find the Tableau visuals, dashboard, and story here: https://public.tableau.com/profile/alyssa6833#!/vizhome/CityBikeProject_15869213541240/BikeTripsSept-Feb
+
 More information on the dataset here: https://www.citibikenyc.com/system-data
 ## Seasonality
 
