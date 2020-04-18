@@ -12,4 +12,5 @@ There was no significant variation in the amount of trips taken by customers and
 
 ## Age and Gender
 
+There was also variation in the riding behavior between different demographic groups. Those with an age older than 100 were taken out of this analysis since the data seemed potentially inaccurate. When looking at age, riders in their 30s are the most active age group using our service but our youngest riders are taking the longest trips. 31 year olds took the most trips in this time period. Males took over twice as many trips as females but their median trip duration was both 5 minutes. Those that did not specify a gender had the highest median trip duration (10 minutes) of all genders.
 ## Trip Locations
